@@ -1,4 +1,4 @@
-name: superenv
+name: pangeo 
 channels:
   - conda-forge
   - defaults
